@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\obj\Debug\net8.0\CookiesRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\obj\Debug\net8.0\CookiesRecipe.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\obj\Debug\net8.0\CookiesRecipe.AssemblyInfo.cs
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\obj\Debug\net8.0\CookiesRecipe.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\obj\Debug\net8.0\CookiesRecipe.sourcelink.json
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\bin\Debug\net8.0\CookiesRecipe.exe
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\bin\Debug\net8.0\CookiesRecipe.deps.json
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\bin\Debug\net8.0\CookiesRecipe.runtimeconfig.json
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\bin\Debug\net8.0\CookiesRecipe.dll
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\bin\Debug\net8.0\CookiesRecipe.pdb
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\obj\Debug\net8.0\CookiesRecipe.dll
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\obj\Debug\net8.0\refint\CookiesRecipe.dll
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\obj\Debug\net8.0\CookiesRecipe.pdb
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\obj\Debug\net8.0\CookiesRecipe.genruntimeconfig.cache
+C:\Users\chris\source\repos\TodoList\CookiesRecipe\obj\Debug\net8.0\ref\CookiesRecipe.dll

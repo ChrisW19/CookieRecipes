@@ -1,8 +1,7 @@
-﻿namespace CookiesRecipe.Recipes.Ingredients.Flours
+﻿namespace CookiesRecipe.Recipes.Ingredients.Flours;
+
+public class SpletFlour : Flour
 {
-    public class SpletFlour : Flour
-    {
-        public override int Id => 2;
-        public override string Name => "Spelt Flour";
-    }
+    public override int Id => 2;
+    public override string Name => "Spelt Flour";
 }

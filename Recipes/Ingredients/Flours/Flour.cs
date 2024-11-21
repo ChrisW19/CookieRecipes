@@ -1,8 +1,7 @@
-﻿namespace CookiesRecipe.Recipes.Ingredients.Flours
+﻿namespace CookiesRecipe.Recipes.Ingredients.Flours;
+
+public abstract class Flour : Ingredient
 {
-    public abstract class Flour : Ingredient
-    {
-        public override string PreparationInstructins =>
-            $"Sieve. Add to other ingredients";
-    }
+    public override string PreparationInstructions =>
+        $"Sieve. Add to other ingredients";
 }

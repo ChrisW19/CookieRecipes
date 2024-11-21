@@ -1,8 +1,7 @@
-﻿namespace CookiesRecipe.Recipes.Ingredients.Flours
+﻿namespace CookiesRecipe.Recipes.Ingredients.Flours;
+
+public class WheatFlour : Flour
 {
-    public class WheatFlour : Flour
-    {
-        public override int Id => 1;
-        public override string Name => "Wheat Flour";
-    }
+    public override int Id => 1;
+    public override string Name => "Wheat Flour";
 }
